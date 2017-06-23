@@ -1538,13 +1538,13 @@ select[multiple].input-lg {
 }
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
-.nav-tabs > li.active > a:focus {
+/* .nav-tabs > li.active > a:focus {
   color: #555555;
   background-color: #ffffff;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
-}
+}*/
 .nav-tabs.nav-justified {
   width: 100%;
   border-bottom: 0;
