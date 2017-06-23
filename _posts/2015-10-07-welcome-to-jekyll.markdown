@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-10-07 15:39:40
-preview: https://unsplash.it/300/300
+preview: https://arai-youn.github.io/mename/img/2.png
 ---
 
 ![Picture 1](https://unsplash.it/800/600)
