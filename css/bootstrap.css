@@ -1523,7 +1523,7 @@ select[multiple].input-lg {
   border-bottom: 1px solid #dddddd;
 }
 .nav-tabs > li {
-  float: left;
+  float: none;
   margin-bottom: -1px;
 }
 .nav-tabs > li > a {
