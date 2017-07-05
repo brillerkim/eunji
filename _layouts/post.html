@@ -3,19 +3,19 @@ layout: default
 ---
 <div class="post">
   <div class="post-nav">
-    {% if page.next.url %}
-      <a href="{{ page.next.url }}">&laquo; Prev</a>
+    {% if post.next.url %}
+      <a href="{{ post.next.url }}">&laquo; Prev</a>
     {% endif %}
-    {% if page.previous.url and page.next.url %}
+    {% if post.previous.url and post.next.url %}
       |
     {% endif %}
-    {% if page.previous.url %}
-      <a href="{{ page.previous.url }}">Next &raquo;</a>
+    {% if post.previous.url %}
+      <a href="{{ post.previous.url }}">Next &raquo;</a>
     {% endif %}
   </div>
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">{{ post.title }}</h1>
   </header>
 
   <article class="post-content">
