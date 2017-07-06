@@ -1,3 +1,11 @@
+<input type="button" value="클릭" onclick="go_popup()"/> 
+ 
+      <div id="popup" class="Pstyle">
+        <span class="b-close">X</span>
+        <div class="content" style="height: auto; width: auto;">
+          <a class="site-title" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/img/10.png"></a>
+        </div>
+      </div>
 {% for post in site.posts %}
     {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-12">
