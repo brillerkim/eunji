@@ -6,6 +6,15 @@
   <body>
 
     {% include header.html %}
+    <input type="button" value="클릭" onclick="go_popup()"/> 
+ 
+      <div id="popup" class="Pstyle">
+        <span class="b-close">X</span>
+        <div class="content" style="height: auto; width: auto;">
+          레이어 팝업이 완성 되었습니다. <br>팝업에 대한 크기는 content div에서 조정이 가능합니다
+          <a class="site-title" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/img/10.png"></a>
+        </div>
+      </div>
 
     <div class="page-content">
       <div class="wrapper">
