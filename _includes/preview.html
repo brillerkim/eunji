@@ -1,7 +1,8 @@
 
         <div id="intro-img">
-          <a class="site-title" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/img/10.png"></a>
+          <a class="site-title" href="{{ site.baseurl }}" onclick="javascript:showPopup()"><img src="{{ site.baseurl }}/img/10.png"></a>
         </div>
+
 {% for post in site.posts %}
     {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-12">
