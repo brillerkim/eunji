@@ -2259,3 +2259,14 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .affix {
   position: fixed;
 }
+
+#intro-img {
+
+}
+.show-img {
+  position: fixed;
+  top: 5%;
+  left: 5%;
+  z-index: 1001;
+  width: 100%
+}
