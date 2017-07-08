@@ -177,3 +177,19 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
+
+/* intro img*/
+
+#intro-img {
+  position: fixed;
+  top: 5%;
+  left: 5%;
+  z-index: 1001;
+  width: 100%
+}
+.show-img {
+  display: none;
+}
+.hide-img {
+  display: hidden;
+}
