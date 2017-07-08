@@ -2261,14 +2261,14 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 
 #intro-img {
-
-}
-.show-img {
   position: fixed;
   top: 5%;
   left: 5%;
   z-index: 1001;
   width: 100%
+}
+.show-img {
+  display: none;
 }
 .hide-img {
   display: hidden;
