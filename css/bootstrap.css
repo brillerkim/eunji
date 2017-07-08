@@ -2263,7 +2263,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 #intro-img {
 
 }
-.show-img a img {
+.show-img {
   position: fixed;
   top: 5%;
   left: 5%;
