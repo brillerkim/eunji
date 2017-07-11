@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  https://arai-youn.github.io/mename/img/1.png
+title:  ">"
 date:   2015-10-06 15:39:40
 preview: https://arai-youn.github.io/mename/img/1.png
 ---
