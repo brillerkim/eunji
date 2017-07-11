@@ -90,7 +90,10 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding-top:10%;
+    padding-right: $spacing-unit 0;
+    padding-left: $spacing-unit 0;
+    padding-bottom: $spacing-unit 0;
 }
 
 .page-heading {
@@ -172,7 +175,6 @@
  * Misc
  */
 .preview-panel {
-    padding-top:5%
     padding: 10px;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
