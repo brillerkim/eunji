@@ -16,6 +16,6 @@ defaults:
   -
     scope:
       path: "p"
-      type: "page"
+      type: "pages"
     values:
       layout: "default"
