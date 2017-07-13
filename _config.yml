@@ -3,7 +3,7 @@ title: part of your world
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   W
-baseurl: "/mename" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://arai-youn.github.io/mename" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
