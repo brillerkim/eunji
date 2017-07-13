@@ -4,24 +4,26 @@ title: about
 permalink: /about/
 ---
 
-/exhibition
-2010 단체전 /갤러리 미스홍
-2010 매체예술과 단체전 /수원시립미술관
-2012 전시solo /카페슬로비
-2013 단체전 /보광동 그림상점
-2013 ‘여러모양새’ 기획 및 전시
-2013 ‘여러모양새’ 기획 및 전시 /문래동 재미공작소
-2015 ‘8요일에 눈이 밝아진다’ Project Residency 및 전시 /전라도 광주 Barim
-2015 ‘goods 굿-즈’ 전시 및 판매 /세종문화회관
+/exhibition</br>
+2010 단체전 /갤러리 미스홍</br>
+2010 매체예술과 단체전 /수원시립미술관</br>
+2012 전시solo /카페슬로비</br>
+2013 단체전 /보광동 그림상점</br>
+2013 ‘여러모양새’ 기획 및 전시</br>
+2013 ‘여러모양새’ 기획 및 전시 /문래동 재미공작소</br>
+2015 ‘8요일에 눈이 밝아진다’ Project Residency 및 전시 /전라도 광주 Barim</br>
+2015 ‘goods 굿-즈’ 전시 및 판매 /세종문화회관</br>
+</br>
+</br>
 
-
-/event
-2013 Feel ‘Felt’ Class /서촌갤러리
-2013 Felt Class /문래동 재미공작소
-2013 고잉어-장 기획 및 참여 /문래동 재미공작소 2015 UE7 언리미티드에디션 /일민미술관 (키트 판매)
-Eunji Briller Kim brillerkim@gmail.com
-Born in 1988.
-From South korea. Works in South korea.
+/event</br>
+2013 Feel ‘Felt’ Class /서촌갤러리</br>
+2013 Felt Class /문래동 재미공작소</br>
+2013 고잉어-장 기획 및 참여 /문래동 재미공작소 2015 UE7 언리미티드에디션 /일민미술관 (키트 판매)</br>
+Eunji Briller Kim brillerkim@gmail.com</br>
+Born in 1988.</br>
+From South korea. Works in South korea.</br>
+</br>
 
 Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
 
