@@ -11,11 +11,3 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-defaults:
-  -
-    scope:
-      path: "p"
-      type: "pages"
-    values:
-      layout: "default"
